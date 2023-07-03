@@ -1,0 +1,5 @@
+﻿  Final_project.cpp
+D:\file kuliah\smester 8\pemrograman dasar\New folder (4)\Final_project\Final_project\Final_project.cpp(19,32): error C2562: 'MataKuliah::cekKelulusan': 'void' function returning a value
+D:\file kuliah\smester 8\pemrograman dasar\New folder (4)\Final_project\Final_project\Final_project.cpp(19): message : see declaration of 'MataKuliah::cekKelulusan'
+D:\file kuliah\smester 8\pemrograman dasar\New folder (4)\Final_project\Final_project\Final_project.cpp(20,25): error C2562: 'MataKuliah::input': 'void' function returning a value
+D:\file kuliah\smester 8\pemrograman dasar\New folder (4)\Final_project\Final_project\Final_project.cpp(20): message : see declaration of 'MataKuliah::input'
